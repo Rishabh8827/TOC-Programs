@@ -1,6 +1,6 @@
 # TOC-Programs(Lab)
-Part 1 :- (Submitted)
-1.Program To Find 2's Complement of Binary Number.
+Part 1 :- (Submitted)\n
+1.Program To Find 2's Complement of Binary Number.\n
 2.Program Which Will Increment The Given Binary Number By 1.
 3.Program To Perform String Operations.
 4.Program To Take Strings From User And Compute Its Length.
